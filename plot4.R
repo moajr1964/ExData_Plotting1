@@ -1,3 +1,5 @@
+# Author - MMCJ - Thu Jul 10 13:34:33 2014
+
 # Plotting #Plot 4 - $ Plots 
 # NOTEBOOK
 setwd("C:\\Users\\ITA\\Dropbox\\week1.exploratory.data.analysis")
